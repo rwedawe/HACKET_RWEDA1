@@ -1,0 +1,20 @@
+#hacks {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+#hacks {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+#hacks ul {
+    list-style-type: none; /* لإزالة النقاط من القائمة */
+}
+
+#hacks li {
+    margin-bottom: 10px; /* مساحة بين العناصر */
+}
